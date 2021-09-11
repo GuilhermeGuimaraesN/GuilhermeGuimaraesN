@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuilhermeGuimaraesN
+- 👋 Hi, I’m @guilhermeguimaraesn
 - 👀 I’m interested in developing myself in the Information Technology area.
 - 🌱 I’m currently learning about data modeling and programming in java among other languages.
 - 💞️ I’m looking to collaborate on both in the programming area and in the database area, preferably database.
