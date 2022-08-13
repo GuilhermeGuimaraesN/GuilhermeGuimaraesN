@@ -1,7 +1,7 @@
 - 👋 OI, me chamo Guilherme Guimarães!! 
 - 👀 Tenho interesse em me desenvolver na área de Tecnologia da Informação.
-- 🌱Atualmente, estou aprendendo sobre modelagem de dados e programação em java entre outras linguagens.
-- 💞️ Procuro colaborar tanto na área de programação quanto na área de banco de dados, de preferência banco de dados!
+- 🌱Atualmente, trabalho na área da tecnologia como instrutor de robótica, desenvolvimento de aplicativos e impresssão 3D.
+- 💞️ Procuro colaborar tanto na área de programação quanto na área de banco de dados.
 
   <a href="https://github.com/guilhermeguimaraesn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeguimaraesn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
