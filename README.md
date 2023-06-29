@@ -1,5 +1,5 @@
 - 👋 OI, me chamo Guilherme Guimarães!! 
-- 👀 Tenho interesse em me desenvolver na área de Tecnologia da Informação.
+- 📖 Buscando me desenvolver cada vez mais na área de Tecnologia da Informação.
 - 🌱Atualmente, trabalho na área da tecnologia como instrutor de robótica, desenvolvimento de aplicativos e impresssão 3D.
 - 💞️ Procuro colaborar tanto na área de programação quanto na área de banco de dados.
 
