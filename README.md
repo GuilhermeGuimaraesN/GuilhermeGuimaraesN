@@ -1,16 +1,22 @@
-- 👋 OI, me chamo Guilherme Guimarães!! 
-- 📖 Buscando me desenvolver cada vez mais na área de Tecnologia da Informação.
-- 🌱Atualmente, trabalho na área da tecnologia como instrutor de robótica, desenvolvimento de aplicativos e impresssão 3D.
-- 💞️ Procuro colaborar tanto na área de programação quanto na área de banco de dados.
+### 👋 Hi there, i'm Guilherme Guimarães!
 
-  <a href="https://github.com/guilhermeguimaraesn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeguimaraesn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-</div>
+#### About
+- I'm a Technology Instructor at [Instituto Ramacrisna](https://ramacrisna.org.br/), studing Information Sistems at university [UNA](https://www.una.br/) and
+i'm studing about web development and mobile at [Rocketseat](https://www.rocketseat.com.br/).
+
+#### Current stack
+- Frontend: `HTML5` , `CSS3` , `Javascript`
+- Backend: `Nodejs`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `MarkDown`
+
+#### Contacts
 <div> 
   <a href = "mailto:guilhermeguimaraesnas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-guimar%C3%A3es-4551501b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+
 
 <!---
 GuilhermeGuimaraesN/GuilhermeGuimaraesN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
