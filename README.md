@@ -1,12 +1,11 @@
 ### 👋 Hi there, i'm Guilherme Guimarães!
 
 #### About
-- I'm a Technology Instructor at [Instituto Ramacrisna](https://ramacrisna.org.br/), studing Information Sistems at university [UNA](https://www.una.br/) and
-i'm studing about web development and mobile at [Rocketseat](https://www.rocketseat.com.br/).
+- I'm a Technology Instructor at [Instituto Ramacrisna](https://ramacrisna.org.br/), studing Information Sistems at university [UNA](https://www.una.br/)
 
 #### Current stack
-- Frontend: `HTML5` , `CSS3` , `Javascript`
-- Backend: `Nodejs`
+- Frontend: `HTML5` , `CSS3` , `Javascript` , `React`
+- Backend: `Nodejs`, `Java` , `Python`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `MarkDown`
