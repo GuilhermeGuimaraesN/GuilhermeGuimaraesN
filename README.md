@@ -4,8 +4,8 @@
 - I'm a Technology Instructor at [Instituto Ramacrisna](https://ramacrisna.org.br/), studing Information Sistems at university [UNA](https://www.una.br/)
 
 #### Current stack
-- Frontend: `HTML5` , `CSS3` , `Javascript` , `React`
-- Backend: `Nodejs`, `Java` , `Python`
+- Frontend: `HTML5` , `CSS3` , `Javascript` , `React`, `NextJs`, `TailwindCSS`
+- Backend: `Nodejs`, `Java` , `Python`, `Javascript`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `MarkDown`
