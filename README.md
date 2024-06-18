@@ -1,7 +1,7 @@
 ### 👋 Hi there, i'm Guilherme Guimarães!
 
 #### About
-- I'm a Technology Instructor at [Instituto Ramacrisna](https://ramacrisna.org.br/), studing Information Sistems at university [UNA](https://www.una.br/)
+- I'm a software developer and studing Information Sistems at university [UNA](https://www.una.br/)
 
 #### Current stack
 - Frontend: `HTML5` , `CSS3` , `Javascript` , `React`, `NextJs`, `TailwindCSS`
